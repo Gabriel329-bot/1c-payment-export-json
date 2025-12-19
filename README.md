@@ -1,6 +1,4 @@
 # 1c-payment-export-json
-Модуль интеграции 1С:Предприятие 8.3 и СЭД Tessa. Экспорт реестра платежей и договоров через REST API.
-
 
 ![1C:Enterprise](https://img.shields.io/badge/1C-Enterprise%208.3-F58220?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-BSL-007ACC?style=for-the-badge)
