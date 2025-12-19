@@ -2,6 +2,13 @@
 Модуль интеграции 1С:Предприятие 8.3 и СЭД Tessa. Экспорт реестра платежей и договоров через REST API.
 
 
+![1C:Enterprise](https://img.shields.io/badge/1C-Enterprise%208.3-F58220?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-BSL-007ACC?style=for-the-badge)
+![System](https://img.shields.io/badge/Integration-Tessa_S.E.D.-4CAF50?style=for-the-badge)
+![Format](https://img.shields.io/badge/Export-JSON-lightgrey?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
+
 
 
 # 📑 Модуль интеграции 1С и Tessa (Экспорт платежей)
